@@ -6,3 +6,4 @@ automation is key
 deployment again
 deployment5
 deployment4
+deploy to staging
